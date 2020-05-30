@@ -1,0 +1,91 @@
+body, html {
+	height: 100%;
+}
+
+.bg-light {
+	background: transparent !important;
+}
+
+.bg {
+	background-image: url("../media/race-point-beach.jpg");
+	height: 100%;
+	width: 100%;
+}
+
+.bgl {
+	background-image: url("../media/truro-houses.jpg"); 
+  	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.bgr {
+	background-image: url("../media/kitesurfing.jpg");
+	height: 100%;
+	width: 100%;
+}
+
+.navbar-inner {
+	/*background: transparent !important;*/
+	/*background-color: rgba(255, 255, 255, 0.3) !important;*/
+	background-image: linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0))!important;
+	padding-right: 5em;
+	padding-left: 5em;
+}
+
+.navbar-inner-l {
+	/*background: transparent !important;*/
+	/*background-color: rgba(255, 255, 255, 0.3) !important;*/
+	background-image: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0.9))!important;
+	padding-right: 5em;
+	padding-left: 5em;
+}
+
+.fab, .fas {
+	font-size: 30px;
+	color: black;
+}
+
+.far {
+	font-size: 45px;
+	color: black;
+}
+
+.brand {
+	height: 50px;
+	width: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #292929;
+	margin-right: 5px;
+}
+
+.navbar-brand {
+	font-family: 'Architects Daughter', cursive, bold;
+	font-size: 30px;
+}
+
+.red-dot {
+	color: red;
+}
+
+.main {
+	padding-top: 10em;
+	text-align: center;
+	width: 50%
+}
+
+.mainl {
+	background-color: rgba(255,255,255,0.6);
+	width: 75%;
+}
+
+.text-area {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 1.5em;
+}
+
+.tr-white-bg {
+	background-color: rgba(255,255,255,0.6);
+}
